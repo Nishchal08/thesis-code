@@ -1,3 +1,9 @@
 .venv
+.venv.*
 .env
-data
+data/raw
+data/processed/angry
+data/processed/happy
+data/processed/neutral
+data/processed/sad
+data/processed/fearful

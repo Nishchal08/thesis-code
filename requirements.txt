@@ -3,3 +3,7 @@ pandas
 scikit-learn
 librosa
 jupyter
+pennylane
+tqdm
+matplotlib
+soundfile
